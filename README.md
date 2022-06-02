@@ -1,1 +1,1 @@
-# crvFrontend
+# react-native-study
